@@ -9,13 +9,14 @@
 
 2. Git
 
-![Git Installation](images/git-installation.png)
+<img width="618" height="126" alt="image" src="https://github.com/user-attachments/assets/572e6581-c36a-4aa4-bfd1-0a3b241ce09e" />
+
 
 3. VS Code
 
-![VS Code Installation](images/vscode-installation.png)
+<img width="824" height="148" alt="image" src="https://github.com/user-attachments/assets/2b7ba59d-b09a-4dad-bc57-493c70628ba5" />
+
 
 4. Hypothesis Username
 
-5. AI Tool/Workflow
-Detail what AI tool, if any, do you plan to use this semester. 
+AnikaParade
