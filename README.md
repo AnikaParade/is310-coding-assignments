@@ -4,7 +4,8 @@
 
 1. Python
 
-![Python Installation](images/python-installation.png)
+<img width="704" height="168" alt="image" src="https://github.com/user-attachments/assets/b0d889af-4ff1-4c09-af42-ee860924562e" />
+
 
 2. Git
 
