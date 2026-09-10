@@ -4,7 +4,7 @@
 
 1. Python
 
-<img width="704" height="168" alt="image" src="https://github.com/user-attachments/assets/b0d889af-4ff1-4c09-af42-ee860924562e" />
+images/python_confirmation.png
 
 
 2. Git
