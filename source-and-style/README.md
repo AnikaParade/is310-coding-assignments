@@ -1,40 +1,40 @@
-\# Inspecting the Cultural Web: Fairy Tales and Folklore
+\ Inspecting the Cultural Web: Fairy Tales and Folklore
 
 
 
-\## Digital Library
+\ Digital Library
 
 
 
-For this assignment, I investigated the \*\*Library of Congress\*\* and one of its digitized books, \*Stories to Read or Tell from Fairy Tales and Folklore\*.
+For this assignment, I investigated the Library of Congress and one of its digitized books, _Stories to Read or Tell from Fairy Tales and Folklore_.
 
 
 
-\*\*Library of Congress:\*\*
+Library of Congress:
 
 https://www.loc.gov/
 
 
 
-\*\*Digital book:\*\*
+Digital book:
 
 https://www.loc.gov/item/11031502/
 
 
 
-I chose this digital object because my area of focus is \*\*fairy-tale retellings\*\*. The book is a collection of fairy tales and folklore that was selected and edited by Laure Claire Foucher and published in 1911.
+I chose this digital object because my area of focus is fairytale retellings. The book is a collection of fairy tales and folklore that was selected and edited by Laure Claire Foucher and published in 1911.
 
 
 
-\## About the Cultural Object
+\About the Cultural Object
 
 
 
-\*Stories to Read or Tell from Fairy Tales and Folklore\* was edited by \*\*Laure Claire Foucher\*\* and published in New York by \*\*Moffat, Yard and Company in 1911\*\*.
+_Stories to Read or Tell from Fairy Tales and Folklore_ was edited by Laure Claire Foucher and published in New York by Moffat, Yard and Company in 1911.
 
 
 
-The Library of Congress categorizes the book under \*\*Children's Stories, Folklore, and Storytelling\*\*. The digitized version contains 166 pages and illustrations. The Library of Congress makes the book available as online text, images, and a PDF.
+The Library of Congress categorizes the book under Children's Stories, Folklore, and Storytelling. The digitized version contains 166 pages and illustrations. The Library of Congress makes the book available as online text, images, and a PDF.
 
 
 
@@ -42,7 +42,7 @@ The book is particularly relevant to fairy-tale retellings because it collects a
 
 
 
-\## Web Technologies
+\Web Technologies
 
 
 
@@ -50,11 +50,11 @@ I used the browser's Developer Tools to inspect the Library of Congress website.
 
 
 
-\### HTML
+\HTML
 
 
 
-The Library of Congress website uses \*\*HTML (HyperText Markup Language)\*\* to structure the webpages. When I inspected the page using the browser's Elements panel, I could see HTML elements used to organize the content.
+The Library of Congress website uses HTML to structure the webpages. When I inspected the page using the browser's Elements panel, I could see HTML elements used to organize the content.
 
 
 
@@ -82,11 +82,11 @@ These elements provide the structure for the webpage and its content.
 
 
 
-\### CSS
+\CSS
 
 
 
-The website also uses \*\*CSS (Cascading Style Sheets)\*\* to control the appearance and layout of its webpages.
+The website also uses CSS to control the appearance and layout of its webpages.
 
 
 
@@ -98,7 +98,7 @@ In Developer Tools, I inspected the styles applied to elements on the page. CSS 
 
 
 
-The Library of Congress website also uses \*\*JavaScript\*\* for interactive features.
+The Library of Congress website also uses JavaScript for interactive features.
 
 
 
@@ -106,11 +106,11 @@ When inspecting the website, I looked for JavaScript files and scripts used by t
 
 
 
-\### Other Technologies
+\Other Technologies
 
 
 
-The Library of Congress also provides an important example of structured data on the web. The Library has a public \*\*JSON/YAML API\*\* that provides structured information about its digital collections.
+The Library of Congress also provides an important example of structured data on the web. The Library has a public JSON/YAML API that provides structured information about its digital collections.
 
 
 
@@ -122,11 +122,11 @@ The Library of Congress explains that its JSON/YAML API can provide machine-read
 
 
 
-\## Who Built the Website?
+\Who Built the Website?
 
 
 
-The Library of Congress website appears to be an institutional project rather than something created by one individual.
+The Library of Congress website appears to be an institutional project rather than something created by one person.
 
 
 
@@ -146,7 +146,7 @@ It is difficult to determine the exact number of people who built the entire Lib
 
 
 
-\## GitHub
+\GitHub
 
 
 
@@ -174,7 +174,7 @@ https://github.com/LibraryOfCongress/data-exploration
 
 
 
-\## Why This Website Is Relevant to Fairy-Tale Retellings
+\Why This Website Is Relevant to Fairy-Tale Retellings
 
 
 
@@ -194,7 +194,7 @@ This makes it possible to compare older versions of fairy tales with later retel
 
 
 
-\## Digital Metadata
+\Digital Metadata
 
 
 
@@ -206,29 +206,29 @@ Some of the metadata associated with the object includes:
 
 
 
-\* \*\*Title:\*\* \*Stories to Read or Tell from Fairy Tales and Folklore\*
+\* Title: _Stories to Read or Tell from Fairy Tales and Folklore_
 
-\* \*\*Editor:\*\* Laure Claire Foucher
+\* Editor: Laure Claire Foucher
 
-\* \*\*Publisher:\*\* Moffat, Yard and Company
+\* Publisher: Moffat, Yard and Company
 
-\* \*\*Publication location:\*\* New York
+\* Publication location: New York
 
-\* \*\*Publication date:\*\* 1911
+\* Publication date: 1911
 
-\* \*\*Format:\*\* Book/Printed Material
+\* Format: Book/Printed Material
 
-\* \*\*Language:\*\* English
+\* Language: English
 
-\* \*\*Subjects:\*\* Children's Stories; Folklore; Storytelling
+\* Subjects: Children's Stories; Folklore; Storytelling
 
-\* \*\*Library of Congress Control Number:\*\* 11031502
+\* Library of Congress Control Number: 11031502
 
-\* \*\*OCLC Number:\*\* 11215741
+\* OCLC Number: 11215741
 
-\* \*\*Online formats:\*\* Online text, image, PDF
+\* Online formats: Online text, image, PDF
 
-\* \*\*Rights:\*\* Public domain
+\* Rights: Public domain
 
 
 
