@@ -1,8 +1,8 @@
-\ Inspecting the Cultural Web: Fairy Tales and Folklore
+Inspecting the Cultural Web: Fairy Tales and Folklore
 
 
 
-\ Digital Library
+Digital Library
 
 
 
@@ -26,7 +26,7 @@ I chose this digital object because my area of focus is fairytale retellings. Th
 
 
 
-\About the Cultural Object
+About the Cultural Object
 
 
 
@@ -42,7 +42,7 @@ The book is particularly relevant to fairy-tale retellings because it collects a
 
 
 
-\Web Technologies
+Web Technologies
 
 
 
@@ -50,7 +50,7 @@ I used the browser's Developer Tools to inspect the Library of Congress website.
 
 
 
-\HTML
+HTML
 
 
 
@@ -82,7 +82,7 @@ These elements provide the structure for the webpage and its content.
 
 
 
-\CSS
+CSS
 
 
 
@@ -94,7 +94,7 @@ In Developer Tools, I inspected the styles applied to elements on the page. CSS 
 
 
 
-\### JavaScript
+JavaScript
 
 
 
@@ -106,7 +106,7 @@ When inspecting the website, I looked for JavaScript files and scripts used by t
 
 
 
-\Other Technologies
+Other Technologies
 
 
 
@@ -122,7 +122,7 @@ The Library of Congress explains that its JSON/YAML API can provide machine-read
 
 
 
-\Who Built the Website?
+Who Built the Website?
 
 
 
@@ -146,7 +146,7 @@ It is difficult to determine the exact number of people who built the entire Lib
 
 
 
-\GitHub
+GitHub
 
 
 
@@ -174,7 +174,7 @@ https://github.com/LibraryOfCongress/data-exploration
 
 
 
-\Why This Website Is Relevant to Fairy-Tale Retellings
+Why This Website Is Relevant to Fairytale Retellings
 
 
 
@@ -194,7 +194,7 @@ This makes it possible to compare older versions of fairy tales with later retel
 
 
 
-\Digital Metadata
+Digital Metadata
 
 
 
@@ -236,31 +236,12 @@ The Library of Congress also provides MARCXML, MODS, and Dublin Core metadata fo
 
 
 
-\## Screenshots
+
+Sources
 
 
 
-I included screenshots in the `images` folder showing my investigation of the Library of Congress website.
-
-
-
-The screenshots document:
-
-
-
-1\. The Library of Congress digital object.
-
-2\. The HTML structure visible in Developer Tools.
-
-3\. CSS and/or JavaScript files visible in Developer Tools.
-
-
-
-\## Sources
-
-
-
-\* Library of Congress. \*Stories to Read or Tell from Fairy Tales and Folklore\*. 1911.
+\* Library of Congress. _Stories to Read or Tell from Fairy Tales and Folklore_. 1911.
 
 &#x20; https://www.loc.gov/item/11031502/
 
