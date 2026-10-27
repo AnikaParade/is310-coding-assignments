@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fairy-Tale Retellings Data Curator</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <main class="container">
+    <h1>Fairy-Tale Retellings Data Curator</h1>
+    <p>Record how a retelling changes a traditional fairy tale, its characters, setting, or message.</p>
+
+    <section>
+      <h2>Example records</h2>
+      <p class="small">These examples demonstrate the kinds of information you can collect.</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Title</th><th>Original tale</th><th>Creator</th><th>Year</th><th>Medium</th></tr></thead>
+          <tbody id="example-records"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Add a record</h2>
+      <form id="record-form">
+        <div class="form-grid">
+          <label>Title of retelling <input name="title" required></label>
+          <label>Original fairy tale <input name="original_tale" required></label>
+          <label>Author/creator <input name="creator" required></label>
+          <label>Publication/release year <input name="year" inputmode="numeric" required></label>
+          <label>Medium <input name="medium" placeholder="Book, film, comic, game..." required></label>
+          <label>Protagonist agency <input name="protagonist_agency" placeholder="How much control do they have?" required></label>
+          <label>Gender representation <textarea name="gender_representation" required></textarea></label>
+          <label>Setting change <textarea name="setting_change" required></textarea></label>
+          <label>Moral/message <textarea name="moral_message" required></textarea></label>
+          <label class="wide">Interpretation notes <textarea name="adaptation_notes" required></textarea></label>
+        </div>
+        <div class="actions">
+          <button type="submit">Review record</button>
+          <button type="button" id="clear-form" class="secondary">Clear form</button>
+        </div>
+      </form>
+      <div id="review-panel" class="review hidden" aria-live="polite">
+        <h3>Review this record</h3>
+        <dl id="review-details"></dl>
+        <div class="actions">
+          <button type="button" id="confirm-record">Confirm and add</button>
+          <button type="button" id="edit-record" class="secondary">Edit record</button>
+        </div>
+      </div>
+      <p id="status" role="status"></p>
+    </section>
+
+    <section>
+      <h2>Your collected records</h2>
+      <p id="record-count">0 records added.</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Title</th><th>Original tale</th><th>Creator</th><th>Year</th><th>Medium</th><th>Notes</th></tr></thead>
+          <tbody id="collected-records"></tbody>
+        </table>
+      </div>
+      <button type="button" id="download-json">Download records as JSON</button>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Cinderella",
+    "original_tale": "Cinderella",
+    "creator": "Charles Perrault",
+    "year": "1697",
+    "medium": "Literary fairy tale",
+    "protagonist_agency": "Limited",
+    "gender_representation": "Rewards beauty and patience",
+    "setting_change": "Royal court",
+    "moral_message": "Good behavior is rewarded",
+    "adaptation_notes": "A literary version that emphasizes manners and virtue."
+  },
+  {
+    "title": "The Bloody Chamber",
+    "original_tale": "Bluebeard",
+    "creator": "Angela Carter",
+    "year": "1979",
+    "medium": "Short story",
+    "protagonist_agency": "Growing agency",
+    "gender_representation": "Questions patriarchal power",
+    "setting_change": "Gothic, wealthy household",
+    "moral_message": "Suspicion and independence can be protective",
+    "adaptation_notes": "A feminist retelling that revises the original power dynamics."
+  },
+  {
+    "title": "Cinderella",
+    "original_tale": "Cinderella",
+    "creator": "Grimm Brothers",
+    "year": "1812",
+    "medium": "book",
+    "protagonist_agency": "very little",
+    "gender_representation": "not well",
+    "setting_change": "original setting to germany",
+    "moral_message": "kindness, patience, and true piety are ultimately rewarded, while cruelty, deceit, and vanity bring severe punishment",
+    "adaptation_notes": "n/a"
+  },
+  {
+    "title": "Ella Enchanted",
+    "original_tale": "Cinderella",
+    "creator": "Gail Carson Levine",
+    "year": "1997",
+    "medium": "book",
+    "protagonist_agency": "n/a",
+    "gender_representation": "n/a",
+    "setting_change": "n/a",
+    "moral_message": "n/a",
+    "adaptation_notes": "n/a"
+  }
+]

@@ -1,0 +1,72 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 28px 16px;
+  background: #f5f0e6;
+  color: #333;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.08);
+}
+
+h1, h2 { color: #4b3b5a; }
+h1 { text-align: center; }
+h2 { border-bottom: 1px solid #d8cedf; padding-bottom: 6px; margin-top: 30px; }
+.small { color: #666; font-size: 0.92rem; }
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+label { display: flex; flex-direction: column; gap: 6px; font-weight: bold; }
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #b9b0bf;
+  border-radius: 5px;
+  font: inherit;
+  font-weight: normal;
+}
+textarea { min-height: 82px; resize: vertical; }
+.wide { grid-column: 1 / -1; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+button {
+  border: 0;
+  border-radius: 5px;
+  padding: 10px 15px;
+  background: #4b3b5a;
+  color: white;
+  font: inherit;
+  cursor: pointer;
+}
+button:hover { background: #352841; }
+button.secondary { background: #e7e1eb; color: #33283d; }
+button.secondary:hover { background: #d9d0e0; }
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; margin: 12px 0; }
+th, td { text-align: left; vertical-align: top; border: 1px solid #ddd4e2; padding: 8px; }
+th { background: #eee8f2; color: #4b3b5a; }
+.review { margin-top: 20px; padding: 16px; border: 1px solid #cfc3d9; border-radius: 6px; background: #faf8fc; }
+.review dl { display: grid; grid-template-columns: minmax(130px, 1fr) 3fr; gap: 8px; }
+.review dt { font-weight: bold; }
+.review dd { margin: 0; white-space: pre-wrap; }
+.hidden { display: none; }
+#status { font-weight: bold; }
+@media (max-width: 650px) {
+  .container { padding: 18px; }
+  .form-grid { grid-template-columns: 1fr; }
+  .wide { grid-column: auto; }
+  .review dl { grid-template-columns: 1fr; }
+  .review dd { margin-bottom: 8px; }
+}
