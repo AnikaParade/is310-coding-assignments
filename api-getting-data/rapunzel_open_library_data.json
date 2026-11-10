@@ -1,0 +1,83 @@
+{
+    "wikipedia_rapunzel": {
+        "title": "Rapunzel",
+        "page_url": "https://en.wikipedia.org/wiki/Rapunzel",
+        "extract": "\"Rapunzel\" ( rə-PUN-zəl; German: [ʁaˈpʊnt͡sl̩] ; French: Raiponce or Persinette) is a German fairy tale most notably recorded by the Brothers Grimm and published in 1812 as part of Children's and Household Tales (KHM 12). The Grimms' story was developed from the French literary fairy tale of Persinette by Charlotte-Rose de Caumont de La Force (1698), which itself is an alternative version of the Italian fairy tale Petrosinella by Giambattista Basile (1634).\nThe tale is classified as Aarne–Thompson type 310 (\"The Maiden in The Tower\"). Its plot has been used and parodied in various media. Its best known line is, \"Rapunzel, Rapunzel, let down your hair.\""
+    },
+    "open_library_books": [
+        {
+            "title": "Rapunzel",
+            "authors": [
+                "Paul O. Zelinsky"
+            ],
+            "first_publish_year": 1997,
+            "edition_count": 5,
+            "open_library_key": "/works/OL3354586W"
+        },
+        {
+            "title": "Rapunzel's Revenge",
+            "authors": [
+                "Shannon Hale",
+                "Hale, Nathan",
+                "Dean Hale"
+            ],
+            "first_publish_year": 2008,
+            "edition_count": 4,
+            "open_library_key": "/works/OL5738586W"
+        },
+        {
+            "title": "Rapunzel",
+            "authors": [
+                "Gebrüder Grimm [Brothers Grimm]"
+            ],
+            "first_publish_year": 1960,
+            "edition_count": 18,
+            "open_library_key": "/works/OL45428W"
+        },
+        {
+            "title": "Rapunzel",
+            "authors": [
+                "Barbara Rogasky"
+            ],
+            "first_publish_year": 1982,
+            "edition_count": 5,
+            "open_library_key": "/works/OL15839362W"
+        },
+        {
+            "title": "Rapunzel",
+            "authors": [
+                "Bethan Woollvin"
+            ],
+            "first_publish_year": 2017,
+            "edition_count": 7,
+            "open_library_key": "/works/OL19731720W"
+        }
+    ],
+    "wikipedia_book_lookup": [
+        {
+            "title": "Rapunzel",
+            "snippet": "&quot;<span class=\"searchmatch\">Rapunzel</span>&quot; (/rəˈpʌnzəl/ rə-PUN-zəl; German: [ʁaˈpʊnt͡sl̩] ; French: Raiponce or Persinette) is a German fairy tale most notably recorded by the Brothers",
+            "word_count": 4886
+        },
+        {
+            "title": "Rapunzel (Tangled)",
+            "snippet": "<span class=\"searchmatch\">Rapunzel</span> is a fictional character in Disney Animation&#039;s Tangled (2010). Based on the title character from the Brothers Grimm fairy tale of the same name",
+            "word_count": 8477
+        },
+        {
+            "title": "Tangled",
+            "snippet": "tale &quot;<span class=\"searchmatch\">Rapunzel</span>&quot;. Produced by Walt Disney Animation Studios, it stars Mandy Moore, Zachary Levi, and Donna Murphy. The film tells the story of <span class=\"searchmatch\">Rapunzel</span> (Moore)",
+            "word_count": 10488
+        },
+        {
+            "title": "Flynn Rider",
+            "snippet": "Grimm fairy tale &quot;<span class=\"searchmatch\">Rapunzel</span>&quot;, Flynn is a wanted thief who seeks refuge in <span class=\"searchmatch\">Rapunzel&#039;s</span> tower after stealing a crown. Blackmailed by <span class=\"searchmatch\">Rapunzel</span> into taking her",
+            "word_count": 7643
+        },
+        {
+            "title": "Rapunzel (disambiguation)",
+            "snippet": "Look up <span class=\"searchmatch\">Rapunzel</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Rapunzel</span> is a character in a fairy tale recorded by the Brothers Grimm. <span class=\"searchmatch\">Rapunzel</span> may also refer to:",
+            "word_count": 257
+        }
+    ]
+}
